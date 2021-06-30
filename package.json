@@ -1,0 +1,24 @@
+{
+  "name": "toolbox",
+  "version": "1.0.0",
+  "description": "一个基于nodejs的工具集",
+  "main": "test.js",
+  "dependencies": {
+    "excel-export": "^0.5.1",
+    "node-xlsx": "^0.16.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Morgan-JL/ToolBox.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Morgan-JL/ToolBox/issues"
+  },
+  "homepage": "https://github.com/Morgan-JL/ToolBox#readme"
+}
